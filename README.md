@@ -1,1 +1,2 @@
-# TIET-summerschool
+# PYTHON ASSAIGNMENT
+    Python Question practise
